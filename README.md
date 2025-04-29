@@ -11,13 +11,13 @@
 
 ### 1. Клонируйте репозиторий
 
-git clone https://github.com/your-repo/nth-min-service.git
-cd nth-min-service
+git clone https://github.com/Julie9997/min_number.git
+cd min_number
 ### 2. Соберите приложение
 mvn clean install
 ### 3. Запустите сервис
 
-java -jar target/nth-min-service.jar
+java -jar target/min_number.jar
 Сервис будет доступен на http://localhost:8080.
 
 # Использование
